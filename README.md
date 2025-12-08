@@ -76,7 +76,7 @@ Lightweight WebSocket server implementation focused on simplicity and performanc
 #### [python-pris-algorithm](https://github.com/Strangemother/python-pris-algorithm) ⭐ 2
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-A tool for detecting patterns and overlaps in data streams, from character strings to event sequences. Perfect for game input detection and sequence testing.
+A tool for detecting patterns and overlaps in data streams, from character strings to event sequences, without caching. Perfect for game input detection and sequence testing.
 
 ---
 
@@ -117,7 +117,7 @@ Instant share to a personal list. Android share extension for quick content aggr
 #### [godot-simple-floorplan-generator](https://github.com/Strangemother/godot-simple-floorplan-generator) ⭐ 5
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-A 3D grid-like base for a floorplan or room using Godot. JSON fetch, grid mapping and walls generation for procedural level design.
+A 3D grid-like base for a floorplan or room using Godot. Demoing JSON fetch, grid mapping and walls generation. Great for game development and procedural level design.
 
 ---
 
