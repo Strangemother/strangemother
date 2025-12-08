@@ -99,14 +99,14 @@ Django-trim for easier integration of Django components, streamlining Django app
 ---
 
 #### [example-flask-library](https://github.com/Strangemother/example-flask-library) ⭐ 1
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Example Flask library showcasing best practices for building reusable Flask components and extensions.
 
 ---
 
 #### [py-rocket-example](https://github.com/Strangemother/py-rocket-example) ⭐ 1
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Python Rocket framework examples demonstrating modern web application patterns.
 
