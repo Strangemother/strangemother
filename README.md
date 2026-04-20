@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-Hi Krithana:
-
-https://www.youtube.com/live/FqL4BA4TP_A?si=7lbAgYxJDxQKxMEw&t=2863 
-
 Welcome to my GitHub profile. Some of my favourites:
 
 
